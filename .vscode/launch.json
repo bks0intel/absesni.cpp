@@ -8,7 +8,7 @@
             "name": "C++ Launch (Windows)",
             "type": "cppvsdbg",
             "request": "launch",
-            "program": "C:\\Users\\POWER\\Documents\\absesni.cpp\\src\\a.exe",
+            "program": "C:\\Users\\POWER\\Documents\\absesni.cpp\\src\\Main.exe",
             "symbolSearchPath": "C:\\Symbols;C:\\SymbolDir2",
             "externalConsole": true,
             "logging": {
